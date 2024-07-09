@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "homeScreenTitle": "Home Screen",
+  "welcomeMessage": "Welcome to the Home Screen!",
+  "selectFromGallery": "Select from Gallery",
+  "takePicture": "Take Picture",
+  "noImageSelected": "No image selected"
+}
